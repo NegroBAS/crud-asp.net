@@ -1,0 +1,8 @@
+/Users/santiagobedoya/Desktop/api/Entidades/bin/Debug/netcoreapp2.1/Entidades.deps.json
+/Users/santiagobedoya/Desktop/api/Entidades/bin/Debug/netcoreapp2.1/Entidades.dll
+/Users/santiagobedoya/Desktop/api/Entidades/bin/Debug/netcoreapp2.1/Entidades.pdb
+/Users/santiagobedoya/Desktop/api/Entidades/obj/Debug/netcoreapp2.1/Entidades.csprojAssemblyReference.cache
+/Users/santiagobedoya/Desktop/api/Entidades/obj/Debug/netcoreapp2.1/Entidades.AssemblyInfoInputs.cache
+/Users/santiagobedoya/Desktop/api/Entidades/obj/Debug/netcoreapp2.1/Entidades.AssemblyInfo.cs
+/Users/santiagobedoya/Desktop/api/Entidades/obj/Debug/netcoreapp2.1/Entidades.dll
+/Users/santiagobedoya/Desktop/api/Entidades/obj/Debug/netcoreapp2.1/Entidades.pdb

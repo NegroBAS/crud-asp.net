@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{303DDE34-25D9-44CE-981C-DE2C04384D4B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Web/Controllers/UsuariosController.cs">
+    <Files>
+      <File FileName="Web/Controllers/UsuariosController.cs" Line="72" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="api" expanded="True">
+            <Node name="Datos" expanded="True" />
+            <Node name="Entidades" expanded="True" />
+            <Node name="Web" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="UsuariosController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Web PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

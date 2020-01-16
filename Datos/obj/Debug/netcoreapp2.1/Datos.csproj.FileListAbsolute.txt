@@ -1,0 +1,13 @@
+/Users/santiagobedoya/Desktop/api/Datos/bin/Debug/netcoreapp2.1/Datos.deps.json
+/Users/santiagobedoya/Desktop/api/Datos/bin/Debug/netcoreapp2.1/Datos.runtimeconfig.json
+/Users/santiagobedoya/Desktop/api/Datos/bin/Debug/netcoreapp2.1/Datos.runtimeconfig.dev.json
+/Users/santiagobedoya/Desktop/api/Datos/bin/Debug/netcoreapp2.1/Datos.dll
+/Users/santiagobedoya/Desktop/api/Datos/bin/Debug/netcoreapp2.1/Datos.pdb
+/Users/santiagobedoya/Desktop/api/Datos/bin/Debug/netcoreapp2.1/Entidades.dll
+/Users/santiagobedoya/Desktop/api/Datos/bin/Debug/netcoreapp2.1/Entidades.pdb
+/Users/santiagobedoya/Desktop/api/Datos/obj/Debug/netcoreapp2.1/Datos.csprojAssemblyReference.cache
+/Users/santiagobedoya/Desktop/api/Datos/obj/Debug/netcoreapp2.1/Datos.AssemblyInfoInputs.cache
+/Users/santiagobedoya/Desktop/api/Datos/obj/Debug/netcoreapp2.1/Datos.AssemblyInfo.cs
+/Users/santiagobedoya/Desktop/api/Datos/obj/Debug/netcoreapp2.1/Datos.csproj.CopyComplete
+/Users/santiagobedoya/Desktop/api/Datos/obj/Debug/netcoreapp2.1/Datos.dll
+/Users/santiagobedoya/Desktop/api/Datos/obj/Debug/netcoreapp2.1/Datos.pdb
